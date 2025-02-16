@@ -12,5 +12,14 @@ This source code is licensed under the MIT license found in the `LICENSE` file i
 
 If you find the source code useful in your research, we ask that you cite our paper:
 ```
-Coming soon.
+@article{kotb2025novel,
+  title={A novel deep synthesis-based insider intrusion detection (DS-IID) model for malicious insiders and AI-generated threats},
+  author={Kotb, Hazem M and Gaber, Tarek and AlJanah, Salem and Zawbaa, Hossam M and Alkhathami, Mohammed},
+  journal={Scientific Reports},
+  volume={15},
+  number={1},
+  pages={207},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
 ```
